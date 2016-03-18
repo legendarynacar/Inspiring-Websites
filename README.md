@@ -12,7 +12,7 @@ http://www.aquest.it/en
 
 http://void-ii.hi-res.net/
 
-void.hi-res.net
+http://void.hi-res.net
 
 http://knowlupus.org/
 
